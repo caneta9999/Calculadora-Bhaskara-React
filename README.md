@@ -1,2 +1,2 @@
 # Calculadora-Bhaskara-React
-O intuito foi desenvolver uma calculadora de bhaskara utilizando do react para propósito de estudo.
+O intuito foi desenvolver uma calculadora de bhaskara utilizando do react para estudo.
